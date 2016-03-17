@@ -1,0 +1,1714 @@
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2016.3.13)  17 MAR 2016 11:22
+entering extended mode
+ \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2016/02/01>
+Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2015/10/03 v3.19a KOMA-Script document class (article)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-dependent basics and keyval usage)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2015/10/03 v3.19a KOMA-Script package (KOMA-Script-independent basics and keyval usage)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2015/10/03 v3.19a KOMA-Script package (loading files)
+
+Package scrlfile, 2015/10/03 v3.19a KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2015/10/03 v3.19a KOMA-Script package (handling toc-files)
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 123.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 124.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 125.
+Package scrartcl Info: You've used standard option `11pt'.
+(scrartcl)             This is correct!
+(scrartcl)             Internally I'm using `fontsize=11pt'.
+(scrartcl)             If you'd like to set the option with \KOMAoptions,
+(scrartcl)             you'd have to use `fontsize=11pt' there
+(scrartcl)             instead of `11pt', too.
+Class scrartcl Info: You've used standard option `oneside'.
+(scrartcl)           This is correct!
+(scrartcl)           Internally I'm using `twoside=false'.
+(scrartcl)           If you'd like to set the option with \KOMAoptions,
+(scrartcl)           you'd have to use `twoside=false' there
+(scrartcl)           instead of `oneside', too.
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input line 2033.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2015/10/03 v3.19a KOMA-Script font size class option (11pt)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2015/10/03 v3.19a KOMA-Script package (type area)
+
+Package typearea, 2015/10/03 v3.19a KOMA-Script package (type area)
+                  Copyright (C) Frank Neukam, 1992-1994
+                  Copyright (C) Markus Kohm, 1994-
+
+\ta@bcor=\skip41
+\ta@div=\count79
+Package typearea Info: You've used standard option `a4paper'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `paper=a4'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `paper=a4' there
+(typearea)             instead of `a4paper', too.
+Package typearea Info: You've used standard option `oneside'.
+(typearea)             This is correct!
+(typearea)             Internally I'm using `twoside=false'.
+(typearea)             If you'd like to set the option with \KOMAoptions,
+(typearea)             you'd have to use `twoside=false' there
+(typearea)             instead of `oneside', too.
+\ta@hblk=\skip42
+\ta@vblk=\skip43
+\ta@temp=\skip44
+\footheight=\skip45
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 408.2971pt
+(typearea)              DIV departure   = -3%
+(typearea)              \evensidemargin = 29.44861pt
+(typearea)              \oddsidemargin  = 29.44861pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 514.20023pt
+(typearea)              \topmargin      = 12.2347pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1509.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+LaTeX Info: Redefining \textsubscript on input line 3906.
+\abovecaptionskip=\skip46
+\belowcaptionskip=\skip47
+\c@pti@nb@sid@b@x=\box26
+\c@figure=\count86
+\c@table=\count87
+\bibindent=\dimen102
+) (./structure.tex (./classicthesis.sty
+Package: classicthesis 2015/09/06 v4.2 Typographic style for a classic-looking thesis
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+Package classicthesis Info: Using option "nochapters" (probably for an article). This turns off the options "linedheaders", "manychapters", "floatperchapter","listsseparated", "eulerchapternumbers", and "parts". Please be aware of that. on input line 158.
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2012/05/28 v1.13 Bundle oberdiek, subset hyperref (HO)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2012/05/28 v1.13 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/05/28 v1.13 Construct package bundles (HO)
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: pdfTeX >= 1.30 not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2012/05/28 v1.2 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen103
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count91
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen104
+\Fld@menulength=\count92
+\Field@Width=\dimen105
+\Fld@charsize=\dimen106
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/stringenc.sty
+Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box27
+\c@Hy@AnnotLevel=\count96
+\HyField@AnnotCount=\count97
+\Fld@listcount=\count98
+\c@bookmark@seq@number=\count99
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
+(rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
+(rerunfilecheck)             Therefore file contents cannot be checked efficiently
+(rerunfilecheck)             and the loading of the package is aborted.
+)
+\Hy@SectionHShift=\skip48
+)
+
+Package classicthesis Warning: You cannot use the option "pdfspacing" with XeLaTeX!.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: xetex.def on input line 225.
+ (/usr/local/texlive/2015/texmf-dist/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2015/09/11 v4.06 LaTeX color/graphics driver for XeTeX (TeX Live/RRM/JK)
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2015/12/30 v3.0k Driver-dependent file (DPC,SPQR)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/mathpazo.sty
+Package: mathpazo 2005/04/12 PSNFSS-v9.2a Palatino w/ Pazo Math (D.Puga, WaS) 
+\symupright=\mathgroup4
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/bera/beramono.sty
+Package: beramono 2004/01/31 (WaS)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/eulervm.sty
+Package: eulervm 2005/01/11 v4.0 (WaS)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2013/05/23 v2.5a Micro-typographical refinements (RS)
+\MT@toks=\toks15
+\MT@count=\count100
+LaTeX Info: Redefining \textls on input line 766.
+\MT@outer@kern=\dimen107
+LaTeX Info: Redefining \textmicrotypecontext on input line 1285.
+\MT@listname@count=\count101
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2013/05/23 v2.5a Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 254.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2013/05/23 v2.5a microtype main configuration file (RS)
+))
+Package classicthesis Info: A4 paper, Palatino or other on input line 272.
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = areaset
+(typearea)             BCOR = 14.22636pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 336.0pt
+(typearea)              \evensidemargin = 65.59715pt
+(typearea)              \oddsidemargin  = 65.59715pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 666.04997pt
+(typearea)              \topmargin      = -40.58768pt
+(typearea)              \headheight     = 15.95pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.60002pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 272.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen108
+\lightrulewidth=\dimen109
+\cmidrulewidth=\dimen110
+\belowrulesep=\dimen111
+\belowbottomsep=\dimen112
+\aboverulesep=\dimen113
+\abovetopsep=\dimen114
+\cmidrulesep=\dimen115
+\cmidrulekern=\dimen116
+\defaultaddspace=\dimen117
+\@cmidla=\count102
+\@cmidlb=\count103
+\@aboverulesep=\dimen118
+\@belowrulesep=\dimen119
+\@thisruleclass=\count104
+\@lastruleclass=\count105
+\@thisrulewidth=\dimen120
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2004/10/07 v0.07 Text only upper/lower case changing (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks16
+\SOUL@lasttoken=\toks17
+\SOUL@cmds=\toks18
+\SOUL@buffer=\toks19
+\SOUL@token=\toks20
+\SOUL@spaceskip=\skip49
+\SOUL@ttwidth=\dimen121
+\SOUL@uldp=\dimen122
+\SOUL@ulht=\dimen123
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrlayer-scrpage.sty
+Package: scrlayer-scrpage 2015/10/03 v3.19a KOMA-Script package (end user interface for scrlayer)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrlayer.sty
+Package: scrlayer 2015/10/03 v3.19a KOMA-Script package (defining layers and page styles)
+Package scrlayer Info: Using already defined \footheight
+(scrlayer)             hoping, that this is a length and
+(scrlayer)             not only a macro on input line 107.
+Package scrlayer Info: patching LaTeX kernel macro \pagestyle on input line 1975.
+)
+Package scrlayer-scrpage Info: deactivating warning for font element
+(scrlayer-scrpage)             `pagefoot' on input line 1191.
+)
+Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
+
+1: subsection
+1: section
+1: section
+1: subsection
+
+Class scrartcl Warning: Usage of package `titlesec' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use the package only
+(scrartcl)              if you really need it, because it breaks several
+(scrartcl)              KOMA-Script features, i.e., option `headings' and
+(scrartcl)              the extended optional argument of the section
+(scrartcl)              commands.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `titlesec' on input line 378.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
+\ttl@box=\box28
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen124
+\ttl@minus=\dimen125
+\ttl@toksa=\toks21
+\titlewidth=\dimen126
+\titlewidthlast=\dimen127
+\titlewidthfirst=\dimen128
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+
+Package titlesec Warning: Non standard sectioning command detected
+(titlesec)                Using default spacing and no format.
+
+)
+
+Package scrartcl Warning: Activating an ugly workaround for a missing
+(scrartcl)                feature of package `titlesec` on input line 378.
+
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tocloft/tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 44.
+\cftparskip=\skip52
+\cftbeforetoctitleskip=\skip53
+\cftaftertoctitleskip=\skip54
+\cftbeforepartskip=\skip55
+\cftpartnumwidth=\skip56
+\cftpartindent=\skip57
+\cftbeforesecskip=\skip58
+\cftsecindent=\skip59
+\cftsecnumwidth=\skip60
+\cftbeforesubsecskip=\skip61
+\cftsubsecindent=\skip62
+\cftsubsecnumwidth=\skip63
+\cftbeforesubsubsecskip=\skip64
+\cftsubsubsecindent=\skip65
+\cftsubsubsecnumwidth=\skip66
+\cftbeforeparaskip=\skip67
+\cftparaindent=\skip68
+\cftparanumwidth=\skip69
+\cftbeforesubparaskip=\skip70
+\cftsubparaindent=\skip71
+\cftsubparanumwidth=\skip72
+\cftbeforeloftitleskip=\skip73
+\cftafterloftitleskip=\skip74
+\cftbeforefigskip=\skip75
+\cftfigindent=\skip76
+\cftfignumwidth=\skip77
+\c@lofdepth=\count106
+\c@lotdepth=\count107
+\cftbeforelottitleskip=\skip78
+\cftafterlottitleskip=\skip79
+\cftbeforetabskip=\skip80
+\cfttabindent=\skip81
+\cfttabnumwidth=\skip82
+)
+\newnumberwidth=\skip83
+\beforebibskip=\skip84
+\newchnumberwidth=\skip85
+\figurelabelwidth=\skip86
+\tablelabelwidth=\skip87
+ Using KOMA-command "deffootnote" for footnote setup (/usr/local/texlive/2015/texmf-dist/tex/latex/koma-script/scrtime.sty
+Package: scrtime 2015/10/03 v3.19a KOMA-Script package (time of LaTeX run)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/carlisle/remreset.sty)) (/usr/local/texlive/2015/texmf-dist/tex/latex/arsclassica/arsclassica.sty
+Package: arsclassica 2012/02/21 v4.0 Customizing ClassicThesis (LP)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen129
+\captionmargin@=\dimen130
+\captionwidth=\dimen131
+\caption@tempdima=\dimen132
+\caption@indent=\dimen133
+\caption@parindent=\dimen134
+\caption@hangindent=\dimen135
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count108
+Package caption Info: hyperref package is loaded.
+)
+LaTeX Info: Redefining \allcapsspacing on input line 57.
+LaTeX Info: Redefining \lowsmallcapsspacing on input line 57.
+LaTeX Info: Redefining \spacedallcaps on input line 57.
+LaTeX Info: Redefining \spacedlowsmallcaps on input line 57.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/titlesec/block.tss
+File: block.tss 2011/12/15
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 192.
+Package hyperref Info: Option `linktocpage' set `true' on input line 192.
+Package hyperref Info: Option `breaklinks' set `true' on input line 192.
+Package hyperref Info: Option `pageanchor' set `true' on input line 192.
+Package hyperref Info: Option `plainpages' set `false' on input line 192.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 192.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 192.
+Package hyperref Info: Option `hypertexnames' set `true' on input line 192.
+
+
+Package hyperref Warning: Option `hyperfootnotes' has already been used,
+(hyperref)                setting the option has no effect on input line 192.
+
+
+Package hyperref Warning: Option `pdfpagelabels' has already been used,
+(hyperref)                setting the option has no effect on input line 192.
+
+(/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+)
+
+Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
+(hyperref)                instead of the value given on input line 192.
+
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/01/03 v1.0q Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 95.
+)
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip88
+\enit@outerparindent=\dimen138
+\enit@toks=\toks24
+\enit@inbox=\box29
+\enitdp@description=\count109
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/lipsum/lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count110
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/subfig/subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+\c@KVtest=\count111
+\sf@farskip=\skip89
+\sf@captopadj=\dimen139
+\sf@capskip=\skip90
+\sf@nearskip=\skip91
+\c@subfigure=\count112
+\c@subfigure@save=\count113
+\c@subtable=\count114
+\c@subtable@save=\count115
+\sf@top=\skip92
+\sf@bottom=\skip93
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/03/03 v2.15a AMS math features
+\@mathmargin=\skip94
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen140
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count116
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count117
+\leftroot@=\count118
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count119
+\DOTSCASE@=\count120
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
+\macc@depth=\count121
+\c@MaxMatrixCols=\count122
+\dotsspace@=\muskip11
+\c@parentequation=\count123
+\dspbrk@lvl=\count124
+\tag@help=\toks26
+\row@=\count125
+\column@=\count126
+\maxfields@=\count127
+\andhelp@=\toks27
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks28
+\multlinegap=\skip95
+\multlinetaggap=\skip96
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2735.
+LaTeX Info: Redefining \] on input line 2736.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks30
+\thm@bodyfont=\toks31
+\thm@headfont=\toks32
+\thm@notefont=\toks33
+\thm@headpunct=\toks34
+\thm@preskip=\skip97
+\thm@postskip=\skip98
+\thm@headsep=\skip99
+\dth@everypar=\toks35
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/varioref.sty
+Package: varioref 2015/09/22 v1.5b package for extended references (FMi)
+\c@vrcnt=\count128
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tex-gyre/tgbonum.sty
+Package: tgbonum 2009/09/27 v1.2 TeX Gyre Bonum as default roman family
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count129
+\float@exts=\toks36
+\float@box=\box32
+\@float@everytoks=\toks37
+\@floatcapt=\box33
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2016/01/19 v6377 L3 programming layer (loader) 
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2016/01/19 v6377 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/01/01 v6339 L3 Bootstrap code
+L3 Module: l3names 2015/12/21 v6328 L3 Namespace for primitives
+L3 Module: l3basics 2015/11/22 v6315 L3 Basic definitions
+L3 Module: l3expan 2015/09/10 v5983 L3 Argument expansion
+L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
+L3 Module: l3str 2016/01/03 v6357 L3 Strings
+L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
+L3 Module: l3int 2016/01/05 v6366 L3 Integers
+\c_max_int=\count130
+\l_tmpa_int=\count131
+\l_tmpb_int=\count132
+\g_tmpa_int=\count133
+\g_tmpb_int=\count134
+L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
+L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
+\g__prg_map_int=\count135
+L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
+L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
+L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
+L3 Module: l3msg 2015/09/28 v6113 L3 Messages
+L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
+\l_iow_line_count_int=\count136
+\l__iow_target_count_int=\count137
+\l__iow_current_line_int=\count138
+\l__iow_current_word_int=\count139
+\l__iow_current_indentation_int=\count140
+L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
+\c_zero_dim=\dimen149
+\c_max_dim=\dimen150
+\l_tmpa_dim=\dimen151
+\l_tmpb_dim=\dimen152
+\g_tmpa_dim=\dimen153
+\g_tmpb_dim=\dimen154
+\c_zero_skip=\skip100
+\c_max_skip=\skip101
+\l_tmpa_skip=\skip102
+\l_tmpb_skip=\skip103
+\g_tmpa_skip=\skip104
+\g_tmpb_skip=\skip105
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
+\g__keyval_level_int=\count141
+\l_keys_choice_int=\count142
+L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
+\c__fp_leading_shift_int=\count143
+\c__fp_middle_shift_int=\count144
+\c__fp_trailing_shift_int=\count145
+\c__fp_big_leading_shift_int=\count146
+\c__fp_big_middle_shift_int=\count147
+\c__fp_big_trailing_shift_int=\count148
+\c__fp_Bigg_leading_shift_int=\count149
+\c__fp_Bigg_middle_shift_int=\count150
+\c__fp_Bigg_trailing_shift_int=\count151
+L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
+\c_empty_box=\box34
+\l_tmpa_box=\box35
+\l_tmpb_box=\box36
+\g_tmpa_box=\box37
+\g_tmpb_box=\box38
+L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
+\l__coffin_internal_box=\box39
+\l__coffin_internal_dim=\dimen155
+\l__coffin_offset_x_dim=\dimen156
+\l__coffin_offset_y_dim=\dimen157
+\l__coffin_x_dim=\dimen158
+\l__coffin_y_dim=\dimen159
+\l__coffin_x_prime_dim=\dimen160
+\l__coffin_y_prime_dim=\dimen161
+\c_empty_coffin=\box40
+\l__coffin_aligned_coffin=\box41
+\l__coffin_aligned_internal_coffin=\box42
+\l_tmpa_coffin=\box43
+\l_tmpb_coffin=\box44
+\l__coffin_display_coffin=\box45
+\l__coffin_display_coord_coffin=\box46
+\l__coffin_display_pole_coffin=\box47
+\l__coffin_display_offset_dim=\dimen162
+\l__coffin_display_x_dim=\dimen163
+\l__coffin_display_y_dim=\dimen164
+L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
+L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen165
+\l__box_bottom_dim=\dimen166
+\l__box_left_dim=\dimen167
+\l__box_right_dim=\dimen168
+\l__box_top_new_dim=\dimen169
+\l__box_bottom_new_dim=\dimen170
+\l__box_left_new_dim=\dimen171
+\l__box_right_new_dim=\dimen172
+\l__box_internal_box=\box48
+\l__coffin_bounding_shift_dim=\dimen173
+\l__coffin_left_corner_dim=\dimen174
+\l__coffin_right_corner_dim=\dimen175
+\l__coffin_bottom_corner_dim=\dimen176
+\l__coffin_top_corner_dim=\dimen177
+\l__coffin_scaled_total_height_dim=\dimen178
+\l__coffin_scaled_width_dim=\dimen179
+L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+File: l3xdvidpfmx.def 2015/11/11 v6250 L3 Experimental driver: xdvipdfmx
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count152
+\l__xparse_m_args_int=\count153
+\l__xparse_mandatory_args_int=\count154
+\l__xparse_processor_int=\count155
+\l__xparse_v_nesting_int=\count156
+)
+Package: fontspec 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2016/02/01 v2.5a Font selection for XeLaTeX and LuaLaTeX
+\l_fontspec_script_int=\count157
+\l_fontspec_language_int=\count158
+\l_fontspec_strnum_int=\count159
+\l__fontspec_tmpa_dim=\dimen180
+\l__fontspec_tmpb_dim=\dimen181
+\l__fontspec_tmpc_dim=\dimen182
+\g__file_internal_ior=\read1
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1enc.def
+File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmr.fd
+File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)) (/usr/local/texlive/2015/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many other characters in Unicode lower plane
+
+*** you should *not* be loading the inputenc package
+*** XeTeX expects the source to be in UTF8 encoding
+*** some features of other encodings may conflict, resulting in poor output.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3enc.def
+File: t3enc.def 2001/12/31 T3 encoding
+LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmss.fd
+File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
+))
+\tipaTiiicode=\count160
+\tipasavetokens=\toks38
+\tipachecktokens=\toks39
+)
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__fontspec_post_arg:w with sig. 'mmO{}' on line 353.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \fontspec with sig. 'om' on line 355.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmainfont with sig. 'om' on line 365.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setsansfont with sig. 'om' on line 375.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmonofont with sig. 'om' on line 385.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathrm with sig. 'om' on line 399.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setboldmathrm with sig. 'om' on line 407.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathsf with sig. 'om' on line 415.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \setmathtt with sig. 'om' on line 423.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfamily with sig. 'mom' on line 437.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontface with sig. 'mom' on line 453.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \defaultfontfeatures with sig. 't+om' on line 467.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addfontfeatures with sig. 'm' on line 529.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontfeature with sig. 'mm' on line 540.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newAATfeature with sig. 'mmmm' on line 548.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newopentypefeature with sig. 'mmm' on line 556.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeature with sig. 'mm' on line 577.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \aliasfontfeatureoption with sig. 'mmm' on line 586.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontscript with sig. 'mm' on line 590.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \newfontlanguage with sig. 'mm' on line 594.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareFontsExtensions with sig. 'm' on line 599.
+.................................................
+\l__fontspec_tmp_int=\count161
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)
+LaTeX Info: Redefining \itshape on input line 2705.
+LaTeX Info: Redefining \slshape on input line 2710.
+LaTeX Info: Redefining \scshape on input line 2715.
+LaTeX Info: Redefining \upshape on input line 2720.
+\l__fontspec_em_int=\count162
+\l__fontspec_emdef_int=\count163
+LaTeX Info: Redefining \em on input line 2736.
+LaTeX Info: Redefining \emph on input line 2742.
+LaTeX Info: Redefining \- on input line 2746.
+.................................................
+. LaTeX info: "xparse/redefine-command"
+. 
+. Redefining command \oldstylenums with sig. 'm' on line 2841.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \liningnums with sig. 'm' on line 2845.
+.................................................
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/roboto/roboto.sty
+Package: roboto 2015/09/15 (Bob Tennent) Supports Roboto fonts for all LaTeX engines.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2015/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks40
+\XKV@tempa@toks=\toks41
+)
+\XKV@depth=\count164
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+Requested font "[Roboto-Regular.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Regular.ttf
+\g__fontspec_family_Roboto_int=\count165
+Requested font "[Roboto-Bold.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Bold.ttf
+Requested font "[Roboto-RegularItalic.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-RegularItalic.ttf
+Requested font "[Roboto-BoldItalic.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-BoldItalic.ttf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Roboto(0)' created for font 'Roboto' with options [Ligatures =
+. TeX,Scale = 1,Extension = .ttf,Ligatures=TeX,Numbers =
+. {Proportional,Lining},UprightFont = *-Regular,ItalicFont =
+. *-RegularItalic,BoldFont = *-Bold,BoldItalicFont = *-BoldItalic].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->s*[1]"[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->s*[1]"[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'bold' (b/n) with NFSS spec.:
+. <->s*[1]"[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;"
+. - 'bold small caps'  (b/sc) with NFSS spec.:
+. <->s*[1]"[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'italic' (m/it) with NFSS spec.:
+. <->s*[1]"[Roboto-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->s*[1]"[Roboto-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'bold italic' (b/it) with NFSS spec.:
+. <->s*[1]"[Roboto-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;"
+. - 'bold italic small caps'  (b/itsc) with NFSS spec.:
+. <->s*[1]"[Roboto-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;+smcp;"
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Roboto(1)' created for font 'Roboto' with options [Ligatures =
+. TeX,Scale = 1,Extension = .ttf,Numbers = {Proportional,Lining},UprightFont =
+. *-Regular,ItalicFont = *-RegularItalic,BoldFont = *-Bold,BoldItalicFont =
+. *-BoldItalic].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->s*[1]"[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->s*[1]"[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'bold' (b/n) with NFSS spec.:
+. <->s*[1]"[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;"
+. - 'bold small caps'  (b/sc) with NFSS spec.:
+. <->s*[1]"[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'italic' (m/it) with NFSS spec.:
+. <->s*[1]"[Roboto-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->s*[1]"[Roboto-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'bold italic' (b/it) with NFSS spec.:
+. <->s*[1]"[Roboto-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;"
+. - 'bold italic small caps'  (b/itsc) with NFSS spec.:
+. <->s*[1]"[Roboto-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;+smcp;"
+.................................................
+Requested font "[RobotoCondensed-Regular.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/RobotoCondensed-Regular.ttf
+\g__fontspec_family_RobotoCondensed_int=\count166
+Requested font "[RobotoCondensed-Bold.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/RobotoCondensed-Bold.ttf
+Requested font "[RobotoCondensed-RegularItalic.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/RobotoCondensed-RegularItalic.ttf
+Requested font "[RobotoCondensed-BoldItalic.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/RobotoCondensed-BoldItalic.ttf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'RobotoCondensed(0)' created for font 'RobotoCondensed' with
+. options [Ligatures = TeX,Scale = 1,Extension = .ttf,Numbers =
+. {Proportional,Lining},UprightFont = *-Regular,ItalicFont =
+. *-RegularItalic,BoldFont = *-Bold,BoldItalicFont = *-BoldItalic].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->s*[1]"[RobotoCondensed-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->s*[1]"[RobotoCondensed-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'bold' (b/n) with NFSS spec.:
+. <->s*[1]"[RobotoCondensed-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;"
+. - 'bold small caps'  (b/sc) with NFSS spec.:
+. <->s*[1]"[RobotoCondensed-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'italic' (m/it) with NFSS spec.:
+. <->s*[1]"[RobotoCondensed-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->s*[1]"[RobotoCondensed-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;+smcp;"-
+. 'bold italic' (b/it) with NFSS spec.:
+. <->s*[1]"[RobotoCondensed-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;"
+. - 'bold italic small caps'  (b/itsc) with NFSS spec.:
+. <->s*[1]"[RobotoCondensed-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+lnum;+smcp;"
+.................................................
+Requested font "[RobotoSlab-Regular.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/RobotoSlab-Regular.ttf
+.................................................
+. fontspec info: "no-scripts"
+. 
+. Font RobotoSlab-Regular does not contain any OpenType `Script' information.
+.................................................
+\g__fontspec_family_RobotoSlab_int=\count167
+Requested font "[RobotoSlab-Bold.ttf]/OT" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/RobotoSlab-Bold.ttf
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'RobotoSlab(0)' created for font 'RobotoSlab' with options
+. [Ligatures = TeX,Scale = 1,Extension = .ttf,UprightFont = *-Regular,BoldFont
+. = *-Bold].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->s*[1]"[RobotoSlab-Regular.ttf]/OT:mapping=tex-text;"
+. - 'small caps'  (m/sc) with NFSS spec.: - 'bold' (b/n) with NFSS spec.:
+. <->s*[1]"[RobotoSlab-Bold.ttf]/OT:mapping=tex-text;"
+. - 'bold small caps'  (b/sc) with NFSS spec.: 
+.................................................
+.................................................
+. fontspec info: "defining-font"
+. 
+. Font family 'Roboto(2)' created for font 'Roboto' with options [Ligatures =
+. TeX,Scale = 1,Extension = .ttf,Numbers = {Proportional,OldStyle},UprightFont
+. = *-Regular,ItalicFont = *-RegularItalic,BoldFont = *-Bold,BoldItalicFont =
+. *-BoldItalic].
+. 
+. This font family consists of the following NFSS series/shapes:
+. - 'normal' (m/n) with NFSS spec.:
+. <->s*[1]"[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+onum;"
+. - 'small caps'  (m/sc) with NFSS spec.:
+. <->s*[1]"[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+onum;+smcp;"-
+. 'bold' (b/n) with NFSS spec.:
+. <->s*[1]"[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+onum;"
+. - 'bold small caps'  (b/sc) with NFSS spec.:
+. <->s*[1]"[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+onum;+smcp;"-
+. 'italic' (m/it) with NFSS spec.:
+. <->s*[1]"[Roboto-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+onum;"
+. - 'italic small caps'  (m/itsc) with NFSS spec.:
+. <->s*[1]"[Roboto-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+onum;+smcp;"-
+. 'bold italic' (b/it) with NFSS spec.:
+. <->s*[1]"[Roboto-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+onum;"
+. - 'bold italic small caps'  (b/itsc) with NFSS spec.:
+. <->s*[1]"[Roboto-BoldItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;+pnum;+onum;+smcp;"
+.................................................
+LaTeX Info: Redefining \oldstylenums on input line 173.
+LaTeX Info: Redefining \liningnums on input line 174.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2015/09/09 v2.1 Yet another Pygments shim for LaTeX
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2008/02/07
+ Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix <2008/02/07> (tvz)
+\FV@CodeLineNo=\count168
+\FV@InFile=\read2
+\FV@TabBox=\box49
+\c@FancyVerbLine=\count169
+\FV@StepNumber=\count170
+\FV@OutFile=\write3
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count171
+\calc@Bcount=\count172
+\calc@Adimen=\dimen183
+\calc@Bdimen=\dimen184
+\calc@Askip=\skip106
+\calc@Bskip=\skip107
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count173
+\calc@Cskip=\skip108
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/ifplatform/ifplatform.sty
+Package: ifplatform 2010/10/22 v0.4 Testing for the operating system
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/catchfile.sty
+Package: catchfile 2011/03/01 v1.6 Catch the contents of a file (HO)
+)
+runsystem(uname -s > "main.w18")...executed.
+
+ (./main.w18)
+runsystem(rm -- "main.w18")...executed.
+
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count174
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2015/texmf-dist/tex/generic/xstring/xstring.tex
+\@xs@message=\write4
+\integerpart=\count175
+\decimalpart=\count176
+)
+Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+Invalid UTF-8 byte or sequence at line 296 replaced by U+FFFD.
+\linenopenalty=\count177
+\output=\toks42
+\linenoprevgraf=\count178
+\linenumbersep=\dimen185
+\linenumberwidth=\dimen186
+\c@linenumber=\count179
+\c@pagewiselinenumber=\count180
+\c@LN@truepage=\count181
+\c@internallinenumber=\count182
+\c@internallinenumbers=\count183
+\quotelinenumbersep=\dimen187
+\bframerule=\dimen188
+\bframesep=\dimen189
+\bframebox=\box50
+LaTeX Info: Redefining \\ on input line 3056.
+)
+\minted@appexistsfile=\read3
+\FV@BreakIndent=\dimen190
+\FV@BreakSymbolSepLeft=\dimen191
+\FV@BreakSymbolSepRight=\dimen192
+\FV@BreakSymbolIndentLeft=\dimen193
+LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 688.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmtt.fd
+File: eu1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+Requested font "[lmmono10-regular]" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf
+\FV@BreakSymbolIndentRight=\dimen194
+\c@FancyVerbLineBreakLast=\count184
+\FV@LineBox=\box51
+\FV@LineIndentBox=\box52
+\minted@bgbox=\box53
+\minted@code=\write5
+\c@minted@FancyVerbLineTemp=\count185
+\@float@every@listing=\toks43
+\c@listing=\count186
+)
+runsystem(pygmentize -S default -f latex -P commandprefix=PYGdefault > "main.out.pyg")...executed.
+
+ (./main.out.pyg)
+runsystem(pygmentize -S borland -f latex -P commandprefix=PYGborland > "main.out.pyg")...executed.
+
+ (./main.out.pyg) (/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
+\UL@box=\box54
+\UL@hyphenbox=\box55
+\UL@skip=\skip109
+\UL@hook=\toks44
+\UL@height=\dimen195
+\UL@pe=\count187
+\UL@pixel=\dimen196
+\ULC@box=\box56
+Requested font "lasy6" scaled 1000
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/latex-fonts/lasy6.tfm
+Package: ulem 2012/05/18
+\ULdepth=\dimen197
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count188
+\Gm@cntv=\count189
+\c@Gm@tempcnt=\count190
+\Gm@bindingoffset=\dimen198
+\Gm@wd@mp=\dimen199
+\Gm@odd@mp=\dimen256
+\Gm@even@mp=\dimen257
+\Gm@layoutwidth=\dimen258
+\Gm@layoutheight=\dimen259
+\Gm@layouthoffset=\dimen260
+\Gm@layoutvoffset=\dimen261
+\Gm@dimlist=\toks45
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+\c@definition=\count191
+\c@theorem=\count192
+Package hyperref Info: Option `colorlinks' set `true' on input line 89.
+Package hyperref Info: Option `breaklinks' set `true' on input line 89.
+
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 89.
+
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 89.
+
+Package hyperref Warning: pdfproducer: xdvipdfmx will use its own setting
+(hyperref)                instead of the value given on input line 89.
+
+)
+runsystem(which "pygmentize" && touch "main.aex")...executed.
+
+runsystem(rm "main.aex")...executed.
+
+ (/Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 49.
+LaTeX Font Info:    Try loading font information for T3+cmr on input line 49.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
+File: t3cmr.fd 2001/12/31 TIPA font definitions
+)
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 49.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/m/n' will be
+(Font)              scaled to size 10.95pt on input line 49.
+Requested font "[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Regular.ttf
+\AtBeginShipoutBox=\box57
+Package hyperref Info: Link coloring ON on input line 49.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count193
+LaTeX Info: Redefining \Ref on input line 513.
+)
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
+ (/Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/main.out) (/Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/main.out)
+\@outlinefile=\write6
+\openout6 = `main.out'.
+
+LaTeX Info: Redefining \Ref on input line 49.
+LaTeX Info: Redefining \microtypecontext on input line 49.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+Package microtype Info: Loading generic settings for font family
+(microtype)             `Roboto' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*** you should *not* be loading the inputenc package
+*** XeTeX expects the source to be in UTF8 encoding
+*** some features of other encodings may conflict, resulting in poor output.
+runsystem(pygmentize -S default -f latex -P commandprefix=PYG > "main.out.pyg")...executed.
+
+(./main.out.pyg)
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.21335pt
+* \headheight=15.95pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.60002pt
+* \marginparwidth=76.65019pt
+* \marginparsep=21.90005pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 68.
+Requested font "[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 20.74pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Regular.ttf
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 68.
+Requested font "[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 20.74pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Bold.ttf
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 70.
+Requested font "[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 14.4pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Regular.ttf
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/m/it' will be
+(Font)              scaled to size 14.4pt on input line 70.
+Requested font "[Roboto-RegularItalic.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 14.4pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-RegularItalic.ttf
+[1
+
+]
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/m/sc' will be
+(Font)              scaled to size 14.4pt on input line 80.
+Requested font "[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;+smcp;" at 14.4pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Regular.ttf
+Package tocbasic Info: character protrusion at toc deactivated on input line 80.
+ (/Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/main.toc
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/m/sc' will be
+(Font)              scaled to size 10.95pt on input line 1.
+Requested font "[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;+smcp;" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Regular.ttf
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/b/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
+Requested font "[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Bold.ttf
+LaTeX Font Info:    Try loading font information for OT1+pplj on input line 1.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1pplj.fd
+File: ot1pplj.fd 2004/09/06 font definitions for OT1/pplj.
+)
+Requested font "pplr9o" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-ppl.cfg
+File: mt-ppl.cfg 2005/11/16 v1.6 microtype config. file: Palatino (RS)
+)
+Requested font "pplr9o" at 8.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+Requested font "pplr9o" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+LaTeX Font Info:    Try loading font information for U+zeur on input line 1.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/uzeur.fd
+File: uzeur.fd 2005/01/11 v4.0 (WaS)
+)
+Requested font "zeurm10" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeurm10.tfm
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+Requested font "zeurm7" at 8.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeurm7.tfm
+Requested font "zeurm7" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeurm7.tfm
+LaTeX Font Info:    Try loading font information for U+zeus on input line 1.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/uzeus.fd
+File: uzeus.fd 2005/01/11 v4.0 (WaS)
+)
+Requested font "zeusm10" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeusm10.tfm
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-eus.cfg
+File: mt-eus.cfg 2006/07/28 v1.2 microtype config. file: AMS Euler Script (RS)
+)
+Requested font "zeusm7" at 8.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeusm7.tfm
+Requested font "zeusm7" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeusm7.tfm
+LaTeX Font Info:    Try loading font information for U+zeuex on input line 1.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/eulervm/uzeuex.fd
+File: uzeuex.fd 2005/01/11 v4.0 (WaS)
+)
+Requested font "zeuex10" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+Requested font "zeuex10" at 8.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+Requested font "zeuex10" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 1.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
+Requested font "zplmr7t" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+Package microtype Info: Loading generic settings for font family
+(microtype)             `zplm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Requested font "zplmr7t" at 8.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+Requested font "zplmr7t" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+Requested font "msam10" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+Requested font "msam7" at 8.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msam7" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Requested font "msbm7" at 8.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+Requested font "msbm7" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+)
+\tf@toc=\write7
+\openout7 = `main.toc'.
+
+Package tocbasic Info: character protrusion at lof deactivated on input line 82.
+ (/Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/main.lof
+Overfull \hbox (2.46837pt too wide) in paragraph at lines 7--7
+ [][] []\EU1/Roboto(0)/m/n/10.95 The proposed Entity Relationship diagram, exported from MySQL- 
+ []
+
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 8.
+Requested font "[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Regular.ttf
+[2])
+\tf@lof=\write8
+\openout8 = `main.lof'.
+
+ [3]
+File: Figures/TSCKitOrderForm.png Graphic file (type QTm)
+ <use  "Figures/TSCKitOrderForm.png" >
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/b/n' will be
+(Font)              scaled to size 10.0pt on input line 167.
+Requested font "[Roboto-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Bold.ttf
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5] [6]
+Requested font "pplr9o" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+Requested font "pplr9o" at 7.6pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+Requested font "zeurm10" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeurm10.tfm
+Requested font "zeurm7" at 7.6pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeurm7.tfm
+Requested font "zeusm10" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeusm10.tfm
+Requested font "zeusm7" at 7.6pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeusm7.tfm
+Requested font "zeuex10" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+Requested font "zeuex10" at 7.6pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+Requested font "zplmr7t" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+Requested font "zplmr7t" at 7.6pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+Requested font "msam10" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+Requested font "msam7" at 7.6pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+Requested font "msbm10" at 10.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+Requested font "msbm7" at 7.6pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+File: Figures/CurrentLvl0.png Graphic file (type QTm)
+ <use  "Figures/CurrentLvl0.png" >
+File: Figures/CurrentLvl1.png Graphic file (type QTm)
+ <use  "Figures/CurrentLvl1.png" >
+Overfull \hbox (2.2737pt too wide) in paragraph at lines 280--281
+ [][] 
+ []
+
+[7]
+File: Figures/ProposedLvl0.png Graphic file (type QTm)
+ <use  "Figures/ProposedLvl0.png" > [8]
+File: Figures/ProposedLvl1.png Graphic file (type QTm)
+ <use  "Figures/ProposedLvl1.png" > [9]
+File: Figures/EERProp.png Graphic file (type QTm)
+ <use  "Figures/EERProp.png" > [10] [11] [12] [13] [14]
+File: Figures/customer.png Graphic file (type QTm)
+ <use  "Figures/customer.png" >
+File: Figures/KitCoordinator.png Graphic file (type QTm)
+ <use  "Figures/KitCoordinator.png" > [15] [16] [17]
+LaTeX Font Info:    Font shape `EU1/Roboto(0)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 431.
+Requested font "[Roboto-Regular.ttf]/OT:script=latn;language=DFLT;mapping=tex-text;mapping=tex-text;+pnum;+lnum;" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/truetype/google/roboto/Roboto-Regular.ttf
+Requested font "pplr9o" at 5.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/palatino/pplr9o.tfm
+Requested font "zeurm5" at 5.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeurm5.tfm
+Requested font "zeusm5" at 5.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeusm5.tfm
+Requested font "zeuex10" at 5.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/eulervm/zeuex10.tfm
+Requested font "zplmr7t" at 5.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/mathpazo/zplmr7t.tfm
+Requested font "msam5" at 5.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+Requested font "msbm5" at 5.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+ [18
+
+] [19
+
+] [20]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(28.45274pt, 540.60239pt, 28.45274pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=540.60239pt
+* \textheight=591.5302pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-7.21335pt
+* \headheight=15.95pt
+* \headsep=20.40001pt
+* \topskip=11.0pt
+* \footskip=47.60002pt
+* \marginparwidth=76.65019pt
+* \marginparsep=21.90005pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/MainMenu.java" )...executed.
+
+ (./main.out.pyg
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmtt' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Requested font "[lmmonolt10-bold]" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmmonolt10-bold.otf
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `lmr' (encoding: EU1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+Requested font "[lmroman6-regular]:mapping=tex-text" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf
+Requested font "[lmmono10-italic]" at 10.95pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmmono10-italic.otf
+ [21
+
+] [22] [23] [24])
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/getConnection.java" )...executed.
+
+ (./main.out.pyg [25] [26])
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/TableViewTest.java" )...executed.
+
+ (./main.out.pyg [27] [28] [29]
+Requested font "[lmmono8-regular]" at 6.0pt
+ -> /usr/local/texlive/2015/texmf-dist/fonts/opentype/public/lm/lmmono8-regular.otf
+ [30])
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/DocWriter.java" )...executed.
+
+ (./main.out.pyg [31] [32] [33])
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/DBSearch.java" )...executed.
+
+ (./main.out.pyg [34] [35] [36])
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/CSVReader.java" )...executed.
+
+ (./main.out.pyg [37])
+runsystem(pygmentize -l java -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/DBReset.java" )...executed.
+
+ (./main.out.pyg [38])
+runsystem(pygmentize -l SQL -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/KitOrderProper.sql" )...executed.
+
+ (./main.out.pyg [39] [40])
+runsystem(pygmentize -l html -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/WebInput.html" )...executed.
+
+ (./main.out.pyg [41])
+runsystem(pygmentize -l html -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/WebInputOrder.html" )...executed.
+
+ (./main.out.pyg [42] [43] [44])
+runsystem(pygmentize -l CSS -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/styling.css" )...executed.
+
+ (./main.out.pyg [45])
+runsystem(pygmentize -l php -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/dbcustomerupdate.php" )...executed.
+
+ (./main.out.pyg [46])
+runsystem(pygmentize -l php -f latex -P commandprefix=PYG -F tokenmerge -o "main.out.pyg" "/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/DBOrderUpdate.php" )...executed.
+
+ (./main.out.pyg [47] [48]) [49] (/Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/main.bbl
+
+LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
+               before end of `thebibliography' environment on input line 3.
+
+)
+runsystem(rm "main.out.pyg")...executed.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 512.
+ [50
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 512.
+ (/Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/main.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 512.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 512.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 512.
+ ) 
+Here is how much of TeX's memory you used:
+ 33136 strings out of 493638
+ 618153 string characters out of 6144792
+ 871501 words of memory out of 5000000
+ 36069 multiletter control sequences out of 15000+600000
+ 23091 words of font info for 95 fonts, out of 8000000 for 9000
+ 1330 hyphenation exceptions out of 8191
+ 67i,23n,96p,10479b,799s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on /Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/main.pdf (50 pages).

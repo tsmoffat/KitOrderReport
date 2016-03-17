@@ -29,6 +29,7 @@ headinclude,footinclude, % Extra spacing for the header and footer
 BCOR5mm, % Binding correction
 ]{scrartcl}
 
+
 \input{structure.tex} % Include the structure.tex file which specified the document structure and layout
 
 \hyphenation{Fortran hy-phen-ation} % Specify custom hyphenation points in words with dashes where you would like hyphenation to occur, or alternatively, don't put any dashes in a word to stop hyphenation altogether
@@ -64,7 +65,7 @@ BCOR5mm, % Binding correction
 \begin{titlepage}
 	\vspace{5cm}
 	\centering
-	{\huge\bfseries COMP 4 Project: An Sports Club kit-ordering system\par}
+	{\huge\bfseries ORDR: An Sports Club kit-ordering system\par}
 	\vspace{2cm}
 	{\Large\itshape Thomas Moffat\par}
 	\vspace{1cm}
@@ -79,6 +80,7 @@ BCOR5mm, % Binding correction
 \tableofcontents % Print the table of contents
 
 \listoffigures
+
 
 
 %----------------------------------------------------------------------------------------
@@ -165,15 +167,15 @@ The current system is paper-based, so people wanting to order kit have to downlo
 	\caption{The current order form}
 	\label{TSCOrderForm}
 \end{figure}
-\par This is obviously a very slow system, especially as the orders only get placed once a month, so it can take up to a month to recieve kit that has been ordered, and possibly longer if the orders have been forgotten, which has happened far too many times in the past. This also has the problem of wasting a large amount of paper, as the forms are just collated on the computer and then discarded. \par 
-Yet another problem with this system is that it requires everyone to pay attention to the dates, as missing the deadline could mean a wait of another month, and if the kit has been ordered for a large competition then it could very easily mean that the swimmers don't get what was ordered in time for the competition, as it normally takes a couple of weeks for all of the ordered kit to be printed and then picked up again. After the orders have been placed and then recieved, it requires Kira to email out to all the parents that their kit has been recieved and then requires her to bring it to a Friday-evening session when the parents are also present, and not all of the members of the squads, especially in the lowest squad swim on Fridays, so it can be a few weeks or months before the swimmers actually get the kit that was ordered. The objective for this project then, is to make a way for parents to order kit and then for Kira to be able to collate this together without hours of data entry.
+\par This is obviously a very slow system, especially as the orders only get placed once a month, so it can take up to a month to receive kit that has been ordered, and possibly longer if the orders have been forgotten, which has happened far too many times in the past. This also has the problem of wasting a large amount of paper, as the forms are just collated on the computer and then discarded. \par 
+Yet another problem with this system is that it requires everyone to pay attention to the dates, as missing the deadline could mean a wait of another month, and if the kit has been ordered for a large competition then it could very easily mean that the swimmers don't get what was ordered in time for the competition, as it normally takes a couple of weeks for all of the ordered kit to be printed and then picked up again. After the orders have been placed and then received, it requires Kira to email out to all the parents that their kit has been received and then requires her to bring it to a Friday-evening session when the parents are also present, and not all of the members of the squads, especially in the lowest squad swim on Fridays, so it can be a few weeks or months before the swimmers actually get the kit that was ordered. The objective for this project then, is to make a way for parents to order kit and then for Kira to be able to collate this together without hours of data entry.
 
 \subsection{Prospective Users}
 The prospective main users of this system will be Kira and then whomever takes over from her when she steps down as Kit Organiser. For this reason, I will need to assume that the users of this system are not tech-savvy, due to the fact that, while I know that Kira knows how to use computers fairly well, I don't know who will be following her so I don't know what their capabilities are regarding computers. For this reason the solution will have to be very simple so that people of any ability can use the system. \par 
-The secondary users of this sytem will be the parents that are ordering kit using a form on the club website, so the forward-facing system will have to be very easy to use, as I don't know all of the parents so I have to assume that some of them will be tech-illiterate, or at the very least, uncomfortable with computers. 
+The secondary users of this system will be the parents that are ordering kit using a form on the club website, so the forward-facing system will have to be very easy to use, as I don't know all of the parents so I have to assume that some of them will be tech-illiterate, or at the very least, uncomfortable with computers. 
 
 \subsection{User Needs and Acceptable Limitations}
- Kira needs to have a way that she can have the parents order what they want and then have it in a searchable database so that she can just create an email to send to the kit manufacturers once a month. Then when she recieves the kit she wants to be able to send out a mass email to the people who have ordered kit the previous month that tells them their kit is ready to be picked up. 
+ Kira needs to have a way that she can have the parents order what they want and then have it in a searchable database so that she can just create an email to send to the kit manufacturers once a month. Then when she receives the kit she wants to be able to send out a mass email to the people who have ordered kit the previous month that tells them their kit is ready to be picked up. 
  \par Although the parents of the swimmers won't be the primary users, they will be affected quite a lot by the system, so it should be easy to navigate and similar in layout to the paper order form, to facilitate change-over. They will need a way to order kit, in an simple layout that then makes sure they know when their kit has been ordered and when it has come in.
  \par The acceptable limitations for this will be:\begin{itemize}
  	\item The hardware this will be running off will be somewhat underpowered, as if it is hosted locally it will be running off a 2009 MacBook Pro, and otherwise, if it is web-based it will be running on the club's web server which is not configured for a large volume of data and a large number of users using it at once.
@@ -396,14 +398,14 @@ I will be making a bespoke solution in Java for this project, as I have far more
 	Squad & Compile order to send off\\
 	Name on Garments & Edit order\\
 	Order & Show all orders to Kit Co-ordinator\\
-	Size of the Garment & Calculate price for the order\\
+	Size of the Garment & \\
 	Number of Garments ordered & \\
 	Whether the order has been paid for & \\
 	\hline
 	Tables Storing Data & Outputs\\ [0.5ex]
 	\hline
 	Order Details & Compiled Order Form \\
-	Customer Details & Total Cost to customer \\
+	Customer Details & Certain Orders via Search Function \\
 	Items Available & All orders in table to kit co-ordinator\\
 	\hline
 	
@@ -412,6 +414,44 @@ I will be making a bespoke solution in Java for this project, as I have far more
 \end{table}
 
 \subsection{Description of Modular System Structure}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{customer}
+\caption{The part of the project facing the customer. This is all written in web-based technology}
+\label{Customer}
+\end{figure}
+\begin{figure}[H]
+\centering
+\includegraphics[scale=0.5]{KitCoordinator}
+\caption{The part of the project facing the Kit Coordinator. This is all written in Java, except for the SQL script and the CSV}
+\label{KitCoordinator}	
+\end{figure}
+
+\begin{table}[H]
+\tiny
+\centering
+\makebox[\linewidth]{
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|c|}
+\hline
+Ordr &  &  &  &  &  &  &  &  &  \\ 
+\hline
+MainMenu &  &  & Get Connection &  &  & Remake Database &  &  & \\ 
+\hline
+Display & Enter Sort & Enter Search String & Open XML File & Get Connection Details & Return & Open SQL File & Run Script & Open CSV & Execute\\ 
+\hline \\ 
+\hline\end{tabular}}
+\label{table:table}
+\caption{\small{}} 
+\end{table}
+\begin{table}[H]
+\tiny
+\centering
+\makebox[\linewidth]{
+\begin{tabular}	
+\end{table}
+
+
+
 
 
 \subsection{Design Data Dictionary}
@@ -429,19 +469,38 @@ I will be making a bespoke solution in Java for this project, as I have far more
 \subsection{Planned Valid Output Designs}
 
 \subsection{Measures Planned for Security and Integrity of Data}
-To make sure the data input is valid, the program will make sure that the data entered has the expected hallmarks of the entered data. So, for instance, if an email address is entered, the program will check to see if the string has an @ symbol in it, and it will make sure that there is a domain name, although due to the manual element of the program, where everything is checked by eye before it is sent off, whether the domain is valid or not won't matter. The back-up strategy will involve a back-up whenever the website of the swimming club is backed up. This will ensure that the database backup is always as up to date as the website itself is.
+To make sure the data input is valid, the program will make sure that the data entered has the expected hallmarks of the entered data. So, for instance, if an email address is entered, the program will check to see if the string has an @ symbol in it (done via HTML form and specifically the email field within it), and it will make sure that there is a domain name, although due to the manual element of the program, where everything is checked by eye before it is sent off, whether the domain is valid or not won't matter. The back-up strategy will involve a back-up whenever the website of the swimming club is backed up. This will ensure that the database backup is always as up to date as the website itself is.
 
 \subsection{Measures Planned for System Security}
-The database will be password protected, and this will be entered when someone attempts to connect to it. I am planning to do this using SSL, however I am not sure what this will be like to implement so it may have to be scaled back somewhat or possibly abandoned, depending on the complexity and whether I can obtain a signed certificate, which should be possible using Let'sEncrypt. No matter what happens the password will never be sent via plaintext, it will be salted and hashed on the client machine then sent to the server. 
+The database will be password protected, and this will be entered when someone attempts to connect to it. I am planning to do this using SSL, however I am not sure what this will be like to implement so it may have to be scaled back somewhat or possibly abandoned, depending on the complexity and whether I can obtain a signed certificate, which should be possible using Let'sEncrypt. No matter what happens the password will never be sent via plaintext, it will be salted and hashed on the client machine then sent to the server. To prevent SQL Injections, I will be making all of the SQL queries that the user can influence (for instance, the search query) Prepared Statements, which escape any special characters, hence foiling their dastardly plots to ruin my database. 
 
 \subsection{Overall Test Strategy}
-To begin with I will be performing black box testing. In this stage of the testing I will be creating fake orders and seeing what happens when they are fed into the system. The expected output should be exactly the same as what is input, unless what is input is too long for the SQL field, or the input is invalid (for instance trying to input a SQL command into the text-boxes and so trying to perform a SQL injection).\par This will be followed by white box testing where I will test every part of the system individually, and make sure I get the outputs that I expect.
+To begin with I will be performing black box testing. In this stage of the testing I will be creating fake orders and seeing what happens when they are fed into the system. The expected output should be exactly the same as what is input, unless what is input is too long for the SQL field, or the input is invalid (for instance trying to input a SQL command into the text-boxes and so trying to perform a SQL injection. This should be prevented due to the use of prepared statements but I will test these just to make sure). For the web based part of this project this will involve testing in Google Chrome and Safari to see if the CSS works and it passes to the database correctly in both browsers.\par This will be followed by white box testing where I will test every part of the system individually, and make sure I get the outputs that I expect. To achieve this I will insert print statements in parts of my code and then trigger the classes that they are in in order to trace their progress through the execution of the program. 
 
 
 
 
 
 \section{Technical Solution}
+
+\section{Source Code Appendix}
+\newgeometry{left=1cm, right=1cm}
+\inputminted[linenos, breaklines]{java}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/MainMenu.java}
+\inputminted[linenos, breaklines]{java}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/getConnection.java}
+\inputminted[linenos, breaklines]{java}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/TableViewTest.java}
+\inputminted[linenos, breaklines]{java}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/DocWriter.java}
+\inputminted[linenos, breaklines]{java}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/DBSearch.java}
+\inputminted[linenos, breaklines]{java}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/CSVReader.java}
+\inputminted[linenos, breaklines]{java}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/DBReset.java}
+\inputminted[linenos, breaklines]{SQL}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/KitOrderProper.sql}
+\inputminted[linenos, breaklines]{html}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/WebInput.html}
+\inputminted[linenos, breaklines]{html}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/WebInputOrder.html}
+\inputminted[linenos, breaklines]{CSS}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/styling.css}
+\inputminted[linenos, breaklines]{php}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/dbcustomerupdate.php}
+\inputminted[linenos, breaklines]{php}{/Users/tsmoffat/kitordersystem/kitordersystem/kitordersystem/DBOrderUpdate.php}
+\restoregeometry
+
+
 
 
 

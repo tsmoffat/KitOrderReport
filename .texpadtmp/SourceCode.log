@@ -1,0 +1,180 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015) (preloaded format=pdftex 2016.2.24)  25 FEB 2016 11:10
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/tsmoffat/Documents/Comp4ProjectReport/SourceCode.tex
+(/Users/tsmoffat/Documents/Comp4ProjectReport/SourceCode.tex
+/Users/tsmoffat/Documents/Comp4ProjectReport/SourceCode.tex:2: Undefined control sequence.
+l.2 	\fvset
+           {frame=single}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/Users/tsmoffat/Documents/Comp4ProjectReport/SourceCode.tex:3: Undefined control sequence.
+l.3 	\begin
+           {pyglist}[language=java,style=borland,numbers=left,numbersep=5pt]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (17.76482pt too wide) in paragraph at lines 6--18
+[]\tenrm import javafx.application.Application; im-port javafx.application.Platform; im-port javafx.event.ActionEvent;|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm m
+.\tenrm p
+.\kern0.27779
+.etc.
+
+
+Overfull \hbox (60.38516pt too wide) in paragraph at lines 6--18
+\tenrm im-port javafx.event.EventHandler; im-port javafx.geometry.HPos; im-port javafx.geometry.Insets; im-port javafx.scene.Scene;|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\tenrm i
+.\tenrm m
+.\discretionary
+..\tenrm -
+.\tenrm p
+.\kern0.27779
+.etc.
+
+
+Overfull \hbox (53.79257pt too wide) in paragraph at lines 19--23
+[]\tenrm import javax.xml.parsers.ParserConfigurationException; im-port java.io.IOException; im-port java.sql.SQLException;|
+
+\hbox(6.94444+1.94444)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm i
+.\tenrm m
+.\tenrm p
+.\kern0.27779
+.etc.
+
+
+Overfull \hbox (2.50525pt too wide) in paragraph at lines 35--60
+\tenrm Field.setPromptText("Search"); or-der-Com-boBox.getItems().addAll("Name A-Z", "Name Z-A", "Item", "Or-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm F
+.\tenrm i
+.\tenrm e
+.\tenrm l
+.\tenrm d
+.etc.
+
+
+Overfull \hbox (36.30159pt too wide) in paragraph at lines 35--60
+\tenrm der ID", ) re-make-But-ton.setOnAction(new Even-tHandler<ActionEvent>()  @Over-ride pub-lic void han-dle(ActionEvent|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm d
+.\tenrm e
+.\tenrm r
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.\tenrm I
+.etc.
+
+
+Overfull \hbox (20.84787pt too wide) in paragraph at lines 35--60
+\tenrm event)  Tex-tIn-put-Di-a-log di-a-log = new Tex-tIn-put-Di-a-log(); di-a-log.setTitle("Caution"); di-a-log.setContentText("Are|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm e
+.\tenrm v
+.\kern-0.27779
+.\tenrm e
+.\tenrm n
+.etc.
+
+
+Overfull \hbox (19.0883pt too wide) in paragraph at lines 74--88
+[]\tenrm e.printStackTrace();  try  CSVReader re-set = new CSVReader();  catch (IOEx-cep-tion e)  e.printStackTrace();|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm e
+.\tenrm .
+.\tenrm p
+.\tenrm r
+.etc.
+
+
+Overfull \hbox (23.53304pt too wide) in paragraph at lines 95--104
+[]\tenrm ); db-View-But-ton.setOnAction(new Even-tHandler<ActionEvent>()  @Over-ride pub-lic void han-dle(ActionEvent|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm )
+.\tenrm ;
+.\glue 3.33333 plus 2.49998 minus 0.74074
+.\tenrm d
+.etc.
+
+
+Overfull \hbox (13.8108pt too wide) in paragraph at lines 112--134
+[]\tenrm ); email-But-ton.setOnAction(new Even-tHandler<ActionEvent>()  @Over-ride pub-lic void han-dle(ActionEvent|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm )
+.\tenrm ;
+.\glue 3.33333 plus 2.49998 minus 0.74074
+.\tenrm e
+.etc.
+
+
+Overfull \hbox (9.41249pt too wide) in paragraph at lines 112--134
+\tenrm ken = search-Field.getText(); try  new DB-Search().start(new Stage());  catch (Ex-cep-tion e)  e.printStackTrace();|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm k
+.\kern-0.27779
+.\tenrm e
+.\tenrm n
+.\glue 3.33333 plus 1.66666 minus 1.11111
+.etc.
+
+
+Overfull \hbox (34.16272pt too wide) in paragraph at lines 141--157
+\tenrm Grid-Pane.setHalignment(emailButton, HPos.CENTER); Grid-Pane.setHalignment(dbViewButton, HPos.CENTER);|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm G
+.\tenrm r
+.\tenrm i
+.\tenrm d
+.\discretionary
+..\tenrm -
+.etc.
+
+
+Overfull \hbox (22.94038pt too wide) in paragraph at lines 141--157
+\tenrm Grid-Pane.setHalignment(searchButton, HPos.CENTER); Grid-Pane.setHalignment(searchField, HPos.CENTER);|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm G
+.\tenrm r
+.\tenrm i
+.\tenrm d
+.\discretionary
+..\tenrm -
+.etc.
+
+[1{/usr/local/texlive/2015/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] )</usr/local/texlive/2015/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on /Users/tsmoffat/Documents/Comp4ProjectReport/.texpadtmp/SourceCode.pdf (1 page, 26750 bytes).
+PDF statistics:
+ 12 PDF objects out of 1000 (max. 8388607)
+ 7 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

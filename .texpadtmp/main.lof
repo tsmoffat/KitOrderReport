@@ -1,0 +1,9 @@
+\deactivateaddvspace 
+\contentsline {figure}{\numberline {1}{\ignorespaces The current order form\relax }}{5}{figure.caption.1}
+\contentsline {figure}{\numberline {2}{\ignorespaces A level 0 data flow diagram of the current system\relax }}{8}{figure.caption.6}
+\contentsline {figure}{\numberline {3}{\ignorespaces A level 1 data flow diagram of the current system\relax }}{9}{figure.caption.7}
+\contentsline {figure}{\numberline {4}{\ignorespaces A level 0 data flow diagram of the proposed system\relax }}{9}{figure.caption.8}
+\contentsline {figure}{\numberline {5}{\ignorespaces A level 1 data flow diagram of the proposed system\relax }}{10}{figure.caption.9}
+\contentsline {figure}{\numberline {6}{\ignorespaces The proposed Entity Relationship diagram, exported from MySQLWorkbench\relax }}{11}{figure.caption.10}
+\contentsline {figure}{\numberline {7}{\ignorespaces The part of the project facing the customer. This is all written in web-based technology\relax }}{16}{figure.caption.12}
+\contentsline {figure}{\numberline {8}{\ignorespaces The part of the project facing the Kit Coordinator. This is all written in Java, except for the SQL script and the CSV\relax }}{17}{figure.caption.13}
