@@ -32,8 +32,7 @@ dottedtoc % Dotted lines leading to the page numbers in the table of contents
 
 \usepackage[utf8]{inputenc} % Required for including letters with accents
 
-\usepackage{graphicx} % Required for including images
-\graphicspath{{Figures/}} % Set the default folder for images
+% Required for including images
 
 \usepackage{enumitem} % Required for manipulating the whitespace between and within lists
 
@@ -56,10 +55,51 @@ dottedtoc % Dotted lines leading to the page numbers in the table of contents
 \usepackage{geometry}
 \usepackage{lscape}
 \usepackage[toc,page]{appendix}
+\usepackage{listings}
+\usepackage{longtable}
+\usepackage{adjustbox}
+\usepackage{scrlayer-scrpage}
 
 
+\usepackage{color}
+\usepackage{ifthen}
+\usepackage{ifpdf}
+\usepackage[headings]{fullpage}
+\usepackage{listings}
+\lstset{language=Java,breaklines=true}
+\ifpdf 
+	\usepackage[pdftex, pdfpagemode={UseOutlines},bookmarks,colorlinks,linkcolor={blue},plainpages=false,pdfpagelabels,citecolor={red},breaklinks=true]{hyperref}
+  \usepackage[pdftex]{graphicx}
+  \pdfcompresslevel=9
+  \DeclareGraphicsRule{*}{mps}{*}{}
+\else
+  \usepackage{graphicx}
+\fi
 
-
+\newcommand{\entityintro}[3]{%
+  \hbox to \hsize{%
+    \vbox{%
+      \hbox to .2in{}%
+    }%
+    {\bf  #1}%
+    \dotfill\pageref{#2}%
+  }
+  \makebox[\hsize]{%
+    \parbox{.4in}{}%
+    \parbox[l]{5in}{%
+      \vspace{1mm}%
+      #3%
+      \vspace{1mm}%
+    }%
+  }%
+}
+\newcommand{\refdefined}[1]{
+\expandafter\ifx\csname r@#1\endcsname\relax
+\relax\else
+{$($in \ref{#1}, page \pageref{#1}$)$}\fi}
+\date{null}
+\chardef\textbackslash=`\\
+\graphicspath{{Figures/}} % Set the default folder for images
 
 %----------------------------------------------------------------------------------------
 %	THEOREM STYLES
